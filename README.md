@@ -4,6 +4,7 @@
 - 🔭 I have basic knowledge in programming with Python, SQL DB.
 - 💞️ I'm looking to collaborate on any code where I can expand my knowledge and challenge my skills.
 - 📫 How to contact me nazly.uzcategui@gmail.com
+- 📫 how to get to me, you can get me on my www.linkedin.com/in/nazly-u-3a4a6958
 - ⚡ Fun fact: I'm very curious and I love to be constantly learning.
   
 <!---
